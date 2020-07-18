@@ -1,4 +1,4 @@
-<img align="right" width="400" height="400" src="https://giphy.com/gifs/ciudad-tecnologia-u7D5EyS2EFlpC">
+<img align="right" width="400" height="400" src="https://media.giphy.com/media/u7D5EyS2EFlpC/giphy.gif">
  
 # Welcome!
  
